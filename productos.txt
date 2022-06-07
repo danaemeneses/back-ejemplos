@@ -1,0 +1,1 @@
+[{"title":"casa","price":14332100,"thumbnail":"casa.png","id":1},{"title":"taza MODIFICADA","price":999,"thumbnail":"taza.png","id":"2"},{"title":"producto 3","price":999,"thumbnail":"producto3.png","id":3},{"title":"gatito","price":"4565","thumbnail":"https://cdn0.iconfinder.com/data/icons/work-from-home-18/512/PlayingWithPet-cat-pet-cute-kitten-128.png","id":4}]
